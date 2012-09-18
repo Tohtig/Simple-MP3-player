@@ -1,1 +1,1 @@
-Simple MP3 player. It's only for trening my developers scills.
+Simple MP3 player. It's only for training my developers scills.
